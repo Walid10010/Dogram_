@@ -1,0 +1,463 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0E2D824F25E86DE200C7FA7B /* ReelsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2D824E25E86DE200C7FA7B /* ReelsModel.swift */; };
+		0E2D825225E8703200C7FA7B /* ScrollVideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2D825125E8703200C7FA7B /* ScrollVideoView.swift */; };
+		0E6CF81125E5AF9400481F58 /* instaclo_walidApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF81025E5AF9400481F58 /* instaclo_walidApp.swift */; };
+		0E6CF81325E5AF9400481F58 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF81225E5AF9400481F58 /* ContentView.swift */; };
+		0E6CF81525E5AF9500481F58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E6CF81425E5AF9500481F58 /* Assets.xcassets */; };
+		0E6CF81825E5AF9500481F58 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E6CF81725E5AF9500481F58 /* Preview Assets.xcassets */; };
+		0E6CF82525E5B06600481F58 /* RoundedImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF82425E5B06600481F58 /* RoundedImage.swift */; };
+		0E6CF82925E5B16700481F58 /* NamedImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF82825E5B16700481F58 /* NamedImage.swift */; };
+		0E6CF82C25E5B26D00481F58 /* StoryRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF82B25E5B26D00481F58 /* StoryRowView.swift */; };
+		0E6CF83125E5BAAA00481F58 /* Jasmine_and_Greentea.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E6CF83025E5BA6D00481F58 /* Jasmine_and_Greentea.ttf */; };
+		0E6CF83425E5BCF000481F58 /* ZoomPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF83325E5BCF000481F58 /* ZoomPost.swift */; };
+		0E6CF83725E5C9E100481F58 /* StoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF83625E5C9E100481F58 /* StoryView.swift */; };
+		0E6CF83A25E5E4B800481F58 /* UpperGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF83925E5E4B800481F58 /* UpperGridView.swift */; };
+		0E6CF83D25E5E8DD00481F58 /* ProfileHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF83C25E5E8DD00481F58 /* ProfileHeader.swift */; };
+		0E6CF84825E5E9FD00481F58 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF84725E5E9FD00481F58 /* ProfileView.swift */; };
+		0E6CF84B25E5EAC900481F58 /* profileInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF84A25E5EAC900481F58 /* profileInfo.swift */; };
+		0E6CF84F25E5EC7500481F58 /* user_collection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF84E25E5EC7500481F58 /* user_collection.swift */; };
+		0E6CF86E25E6796F00481F58 /* PostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF86D25E6796F00481F58 /* PostModel.swift */; };
+		0E6CF87625E6AF3A00481F58 /* BrowseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF87525E6AF3A00481F58 /* BrowseView.swift */; };
+		0E6CF87D25E6B98500481F58 /* ImageGridViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF87C25E6B98500481F58 /* ImageGridViewX.swift */; };
+		0E6CF88225E6DD3600481F58 /* BottomGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF88125E6DD3600481F58 /* BottomGridView.swift */; };
+		0E6CF88525E7167E00481F58 /* ProfileScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF88425E7167E00481F58 /* ProfileScrollView.swift */; };
+		0E6CF88825E85F7200481F58 /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6CF88725E85F7200481F58 /* VideoView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0E2D824E25E86DE200C7FA7B /* ReelsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReelsModel.swift; sourceTree = "<group>"; };
+		0E2D825125E8703200C7FA7B /* ScrollVideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollVideoView.swift; sourceTree = "<group>"; };
+		0E6CF80D25E5AF9400481F58 /* instaclo_walid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = instaclo_walid.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0E6CF81025E5AF9400481F58 /* instaclo_walidApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instaclo_walidApp.swift; sourceTree = "<group>"; };
+		0E6CF81225E5AF9400481F58 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0E6CF81425E5AF9500481F58 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0E6CF81725E5AF9500481F58 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0E6CF81925E5AF9500481F58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E6CF82425E5B06600481F58 /* RoundedImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedImage.swift; sourceTree = "<group>"; };
+		0E6CF82825E5B16700481F58 /* NamedImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamedImage.swift; sourceTree = "<group>"; };
+		0E6CF82B25E5B26D00481F58 /* StoryRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryRowView.swift; sourceTree = "<group>"; };
+		0E6CF83025E5BA6D00481F58 /* Jasmine_and_Greentea.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Jasmine_and_Greentea.ttf; sourceTree = "<group>"; };
+		0E6CF83325E5BCF000481F58 /* ZoomPost.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZoomPost.swift; sourceTree = "<group>"; };
+		0E6CF83625E5C9E100481F58 /* StoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryView.swift; sourceTree = "<group>"; };
+		0E6CF83925E5E4B800481F58 /* UpperGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpperGridView.swift; sourceTree = "<group>"; };
+		0E6CF83C25E5E8DD00481F58 /* ProfileHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileHeader.swift; sourceTree = "<group>"; };
+		0E6CF84725E5E9FD00481F58 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		0E6CF84A25E5EAC900481F58 /* profileInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profileInfo.swift; sourceTree = "<group>"; };
+		0E6CF84E25E5EC7500481F58 /* user_collection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = user_collection.swift; sourceTree = "<group>"; };
+		0E6CF86D25E6796F00481F58 /* PostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostModel.swift; sourceTree = "<group>"; };
+		0E6CF87525E6AF3A00481F58 /* BrowseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrowseView.swift; sourceTree = "<group>"; };
+		0E6CF87C25E6B98500481F58 /* ImageGridViewX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGridViewX.swift; sourceTree = "<group>"; };
+		0E6CF88125E6DD3600481F58 /* BottomGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomGridView.swift; sourceTree = "<group>"; };
+		0E6CF88425E7167E00481F58 /* ProfileScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileScrollView.swift; sourceTree = "<group>"; };
+		0E6CF88725E85F7200481F58 /* VideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0E6CF80A25E5AF9400481F58 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0E6CF80425E5AF9400481F58 = {
+			isa = PBXGroup;
+			children = (
+				0E6CF86C25E6795C00481F58 /* Model */,
+				0E6CF84D25E5EC5D00481F58 /* Helper */,
+				0E6CF82F25E5BA6100481F58 /* RES */,
+				0E6CF82125E5B01600481F58 /* View */,
+				0E6CF80F25E5AF9400481F58 /* instaclo_walid */,
+				0E6CF80E25E5AF9400481F58 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0E6CF80E25E5AF9400481F58 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF80D25E5AF9400481F58 /* instaclo_walid.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0E6CF80F25E5AF9400481F58 /* instaclo_walid */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF81025E5AF9400481F58 /* instaclo_walidApp.swift */,
+				0E6CF81225E5AF9400481F58 /* ContentView.swift */,
+				0E6CF81425E5AF9500481F58 /* Assets.xcassets */,
+				0E6CF81925E5AF9500481F58 /* Info.plist */,
+				0E6CF81625E5AF9500481F58 /* Preview Content */,
+			);
+			path = instaclo_walid;
+			sourceTree = "<group>";
+		};
+		0E6CF81625E5AF9500481F58 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF81725E5AF9500481F58 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0E6CF82125E5B01600481F58 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF82325E5B04100481F58 /* SubView */,
+				0E6CF82225E5B02600481F58 /* FullView */,
+				0E6CF88425E7167E00481F58 /* ProfileScrollView.swift */,
+				0E6CF88725E85F7200481F58 /* VideoView.swift */,
+				0E2D825125E8703200C7FA7B /* ScrollVideoView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		0E6CF82225E5B02600481F58 /* FullView */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF83625E5C9E100481F58 /* StoryView.swift */,
+			);
+			path = FullView;
+			sourceTree = "<group>";
+		};
+		0E6CF82325E5B04100481F58 /* SubView */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF87025E6AEDA00481F58 /* BrowseView */,
+				0E6CF83C25E5E8DD00481F58 /* ProfileHeader.swift */,
+				0E6CF83325E5BCF000481F58 /* ZoomPost.swift */,
+				0E6CF82425E5B06600481F58 /* RoundedImage.swift */,
+				0E6CF82825E5B16700481F58 /* NamedImage.swift */,
+				0E6CF82B25E5B26D00481F58 /* StoryRowView.swift */,
+				0E6CF84725E5E9FD00481F58 /* ProfileView.swift */,
+			);
+			path = SubView;
+			sourceTree = "<group>";
+		};
+		0E6CF82F25E5BA6100481F58 /* RES */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF83025E5BA6D00481F58 /* Jasmine_and_Greentea.ttf */,
+			);
+			path = RES;
+			sourceTree = "<group>";
+		};
+		0E6CF84D25E5EC5D00481F58 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF84E25E5EC7500481F58 /* user_collection.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		0E6CF86C25E6795C00481F58 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF84A25E5EAC900481F58 /* profileInfo.swift */,
+				0E6CF86D25E6796F00481F58 /* PostModel.swift */,
+				0E2D824E25E86DE200C7FA7B /* ReelsModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0E6CF87025E6AEDA00481F58 /* BrowseView */ = {
+			isa = PBXGroup;
+			children = (
+				0E6CF83925E5E4B800481F58 /* UpperGridView.swift */,
+				0E6CF87525E6AF3A00481F58 /* BrowseView.swift */,
+				0E6CF87C25E6B98500481F58 /* ImageGridViewX.swift */,
+				0E6CF88125E6DD3600481F58 /* BottomGridView.swift */,
+			);
+			path = BrowseView;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0E6CF80C25E5AF9400481F58 /* instaclo_walid */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0E6CF81C25E5AF9500481F58 /* Build configuration list for PBXNativeTarget "instaclo_walid" */;
+			buildPhases = (
+				0E6CF80925E5AF9400481F58 /* Sources */,
+				0E6CF80A25E5AF9400481F58 /* Frameworks */,
+				0E6CF80B25E5AF9400481F58 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = instaclo_walid;
+			productName = instaclo_walid;
+			productReference = 0E6CF80D25E5AF9400481F58 /* instaclo_walid.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0E6CF80525E5AF9400481F58 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					0E6CF80C25E5AF9400481F58 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+				};
+			};
+			buildConfigurationList = 0E6CF80825E5AF9400481F58 /* Build configuration list for PBXProject "instaclo_walid" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0E6CF80425E5AF9400481F58;
+			productRefGroup = 0E6CF80E25E5AF9400481F58 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0E6CF80C25E5AF9400481F58 /* instaclo_walid */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0E6CF80B25E5AF9400481F58 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0E6CF83125E5BAAA00481F58 /* Jasmine_and_Greentea.ttf in Resources */,
+				0E6CF81825E5AF9500481F58 /* Preview Assets.xcassets in Resources */,
+				0E6CF81525E5AF9500481F58 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0E6CF80925E5AF9400481F58 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0E6CF84B25E5EAC900481F58 /* profileInfo.swift in Sources */,
+				0E6CF83425E5BCF000481F58 /* ZoomPost.swift in Sources */,
+				0E6CF87D25E6B98500481F58 /* ImageGridViewX.swift in Sources */,
+				0E6CF87625E6AF3A00481F58 /* BrowseView.swift in Sources */,
+				0E6CF84F25E5EC7500481F58 /* user_collection.swift in Sources */,
+				0E6CF88225E6DD3600481F58 /* BottomGridView.swift in Sources */,
+				0E6CF88825E85F7200481F58 /* VideoView.swift in Sources */,
+				0E6CF82525E5B06600481F58 /* RoundedImage.swift in Sources */,
+				0E6CF84825E5E9FD00481F58 /* ProfileView.swift in Sources */,
+				0E6CF86E25E6796F00481F58 /* PostModel.swift in Sources */,
+				0E6CF81325E5AF9400481F58 /* ContentView.swift in Sources */,
+				0E6CF83A25E5E4B800481F58 /* UpperGridView.swift in Sources */,
+				0E6CF83725E5C9E100481F58 /* StoryView.swift in Sources */,
+				0E2D825225E8703200C7FA7B /* ScrollVideoView.swift in Sources */,
+				0E2D824F25E86DE200C7FA7B /* ReelsModel.swift in Sources */,
+				0E6CF82C25E5B26D00481F58 /* StoryRowView.swift in Sources */,
+				0E6CF81125E5AF9400481F58 /* instaclo_walidApp.swift in Sources */,
+				0E6CF82925E5B16700481F58 /* NamedImage.swift in Sources */,
+				0E6CF88525E7167E00481F58 /* ProfileScrollView.swift in Sources */,
+				0E6CF83D25E5E8DD00481F58 /* ProfileHeader.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0E6CF81A25E5AF9500481F58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0E6CF81B25E5AF9500481F58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0E6CF81D25E5AF9500481F58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"instaclo_walid/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = instaclo_walid/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "waliddurani.instaclo-walid";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0E6CF81E25E5AF9500481F58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"instaclo_walid/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = instaclo_walid/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "waliddurani.instaclo-walid";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0E6CF80825E5AF9400481F58 /* Build configuration list for PBXProject "instaclo_walid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0E6CF81A25E5AF9500481F58 /* Debug */,
+				0E6CF81B25E5AF9500481F58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0E6CF81C25E5AF9500481F58 /* Build configuration list for PBXNativeTarget "instaclo_walid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0E6CF81D25E5AF9500481F58 /* Debug */,
+				0E6CF81E25E5AF9500481F58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0E6CF80525E5AF9400481F58 /* Project object */;
+}
